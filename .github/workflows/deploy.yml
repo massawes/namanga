@@ -53,4 +53,7 @@ jobs:
             README.md
             database/**
             config/database.production.php
-            uploads/**
+            uploads/software/**
+            uploads/.sync_marker
+            uploads/.live_import_done
+            uploads/.live_import_try
