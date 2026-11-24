@@ -51,6 +51,7 @@ jobs:
             **/.git*/**
             .github/**
             README.md
+            CLAUDE.md
             database/**
             config/database.production.php
             uploads/software/**
